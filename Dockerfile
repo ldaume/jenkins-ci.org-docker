@@ -1,4 +1,6 @@
 FROM java:openjdk-7u65-jdk
+MAINTAINER Leonard Daume <lenny@daume-web.eu>
+
 
 RUN apt-get update && apt-get install -y wget git curl zip && rm -rf /var/lib/apt/lists/*
 
