@@ -1,8 +1,8 @@
-# Official Jenkins Docker image
+# Release copy of official Jenkins Docker image
 
 The Jenkins Continuous Integration and Delivery server.
 
-This is a fully functional Jenkins server, based on the Long Term Support release
+This is a fully functional Jenkins server, but based on the normal release
 http://jenkins-ci.org/
 
 
